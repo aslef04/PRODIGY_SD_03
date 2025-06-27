@@ -6,8 +6,8 @@
 
 ## 💡 **Key Features :**
 
-#### ✅ Add & manage contacts easily. 
+#### ✓. Add & manage contacts easily.  
 
-#### ✅ Search & modify existing contacts.
+#### ✓. Search & modify existing contacts.
 
-#### ✅ Delete unwanted contacts.
+#### ✓. Delete unwanted contacts.
